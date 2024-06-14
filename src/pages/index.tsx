@@ -18,7 +18,7 @@ export default function Home() {
     setNoButtonStyle({
       position: 'absolute',
       top: generatePosition(10, 500),
-      left: generatePosition(10, 500),
+      left: generatePosition(10, 110),
     });
     console.log('opa, desviei...');
   };
